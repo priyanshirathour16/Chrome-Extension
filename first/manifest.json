@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name" :"Get tab title ",
+    "description":"we can get the title of the current tab by click on the button",
+    "version":"1.0",
+    "permissions": [
+    "tabs"
+  ],
+    "action":{
+        "default_popup":"index.html"
+        
+    }
+    
+
+}
